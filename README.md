@@ -52,8 +52,8 @@ interests:
   ]
 awards:
   [
-    "🥈 2nd place – galaksija kup 2023 – sign language translation glove",
-    "🥈 2nd place – municipal competition in electronics 2023",
+    "🥈 2nd place – national competition galaksija kup 2023 – sign language translation glove",
+    "🥈 2nd place – municipal electronics competition 2023",
   ]
 currently_learning: ["docker", "kubernetes"]
 goals_2026: ["build 5+ projects", "improve system design skills", "contribute to open source"]
