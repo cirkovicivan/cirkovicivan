@@ -2,19 +2,16 @@
   hi there 👋
 </h1>
 
-<h3>🧠 technologies i use</h3>
+<h3>🧠 technologies</h3>
 
 <div>
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="gnubash" />
-  <img src="https://cdn.simpleicons.org/vite/646CFF" height="30" alt="vite" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="30" alt="npm" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5" />
   <img src="https://cdn.simpleicons.org/sass/CC6699" height="30" alt="sass" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwind" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="30" alt="typescript" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="react" />
-  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="30" alt="netlify" />
   <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="python" />
   <img src="https://cdn.simpleicons.org/arduino/00979D" height="30" alt="arduino" />
   <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="30" alt="c++" />
@@ -22,7 +19,7 @@
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql" />
 </div>
 
-<h3>🧰 tools i work with</h3>
+<h3>🧰 tools</h3>
 
 <div>
   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman" />
@@ -59,6 +56,10 @@ currently_learning: ["docker", "kubernetes"]
 goals_2026: ["build 5+ projects", "improve system design skills", "contribute to open source"]
 hobbies: ["gaming", "reading", "tech tinkering", "coding challenges", "3d printing"]
 ```
+<h3>🎓 certificates</h3>
+<a href="https://www.credly.com/badges/d48d1415-248a-49c2-8faf-2dbbb60a73a3/public_url" target="_blank">
+  <img src="https://images.credly.com/size/220x220/images/969cb130-43cd-48d4-904c-a74d2070aade/blob" height="150" alt="Red Hat OpenShift Development I: Introduction to Containers with Podman 4.18" />
+</a>
 
 <h3>📬 connect with me</h3>
 
