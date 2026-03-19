@@ -5,7 +5,8 @@
 <h3>🧠 technologies</h3>
 
 <div>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,nodejs,express,react,mysql,mongodb,redis,docker,kubernetes,bash" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,nodejs,express" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react,mysql,mongodb,redis,docker,kubernetes,bash" height="40"/>
 </div>
 
 <h3>🧰 tools</h3>
