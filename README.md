@@ -5,30 +5,13 @@
 <h3>🧠 technologies</h3>
 
 <div>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="30" alt="typescript" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="python" />
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="30" alt="c++" />
-  <img src="https://cdn.simpleicons.org/c/00979D" height="30" alt="c" />
-  <img src="https://cdn.simpleicons.org/node.js/339933" height="30" alt="node.js" />
-  <img src="https://cdn.simpleicons.org/express/000000" height="30" alt="express" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="react" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb" />
-  <img src="https://cdn.simpleicons.org/redis/DC382D" height="30" alt="redis" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker" />
-  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="30" alt="kubernetes" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,nodejs,express,react,mysql,mongodb,redis,docker,kubernetes,bash" height="30"/>
 </div>
 
 <h3>🧰 tools</h3>
 
 <div>
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git" />
-  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux" />
+  <img src="https://skillicons.dev/icons?i=github,git,postman,vscode,linux" height="30" alt="tools" />
 </div>
 
 <h3> 👨🏻‍💻 about me</h3>
