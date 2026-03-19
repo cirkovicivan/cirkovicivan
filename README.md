@@ -5,13 +5,13 @@
 <h3>🧠 technologies</h3>
 
 <div>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,nodejs,express,react,mysql,mongodb,redis,docker,kubernetes,bash" height="30"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,nodejs,express,react,mysql,mongodb,redis,docker,kubernetes,bash" height="40"/>
 </div>
 
 <h3>🧰 tools</h3>
 
 <div>
-  <img src="https://skillicons.dev/icons?i=github,git,postman,vscode,linux" height="30" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=github,git,postman,vscode,linux" height="40" alt="tools" />
 </div>
 
 <h3> 👨🏻‍💻 about me</h3>
